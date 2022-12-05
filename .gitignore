@@ -1,0 +1,11 @@
+env/
+analysing_twitter-master/
+*.py
+*.gexf
+tweets.pkl
+requirements.txt
+.ipynb_checkpoints/
+tweets_graph.gexf
+tweets_graph_color.gexf
+gephi.gephi
+/gephi

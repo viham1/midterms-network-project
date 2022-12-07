@@ -1,7 +1,7 @@
 env/
 analysing_twitter-master/
-*.py
 *.gexf
+__pycache__
 tweets.pkl
 requirements.txt
 .ipynb_checkpoints/
